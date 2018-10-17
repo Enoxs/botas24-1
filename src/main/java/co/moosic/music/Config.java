@@ -4,10 +4,10 @@ import com.kaaz.configuration.ConfigurationOption;
 
 public class Config {
     @ConfigurationOption
-    public static String discord_token = "your-discord-token";
+    public static String discord_token = "1dSsp7Ju7tsRO5Y92qCFGb77I3TBErQi";
 
     @ConfigurationOption
-    public static String command_prefix = "!";
+    public static String command_prefix = "zaz";
 
     @ConfigurationOption
     public static int volume = 30;
